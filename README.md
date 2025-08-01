@@ -1,2 +1,2 @@
 # plotGraph_calibration
-comparison between standard divce and sensor
+comparison between standard device and sensor
